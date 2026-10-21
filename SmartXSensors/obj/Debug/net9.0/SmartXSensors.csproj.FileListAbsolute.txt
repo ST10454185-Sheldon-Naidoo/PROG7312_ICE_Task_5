@@ -1,0 +1,14 @@
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\bin\Debug\net9.0\SmartXSensors.exe
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\bin\Debug\net9.0\SmartXSensors.deps.json
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\bin\Debug\net9.0\SmartXSensors.runtimeconfig.json
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\bin\Debug\net9.0\SmartXSensors.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\bin\Debug\net9.0\SmartXSensors.pdb
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\SmartXSensors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\SmartXSensors.AssemblyInfoInputs.cache
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\SmartXSensors.AssemblyInfo.cs
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\SmartXSensors.csproj.CoreCompileInputs.cache
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\SmartXSensors.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\refint\SmartXSensors.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\SmartXSensors.pdb
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\SmartXSensors.genruntimeconfig.cache
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 5\SmartXSensors\obj\Debug\net9.0\ref\SmartXSensors.dll
